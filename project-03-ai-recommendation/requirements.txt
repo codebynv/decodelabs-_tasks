@@ -1,0 +1,2 @@
+# This project uses only the Python standard library
+# (csv, math, collections, unittest). No external dependencies are required.
