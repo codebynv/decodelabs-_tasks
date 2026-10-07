@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+
+# Test / tooling caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated OCR artifacts (recreate them by running the pipeline)
+outputs/*.png
+!outputs/.gitkeep

@@ -1,0 +1,7 @@
+# External dependencies for Project 4 (Image/Text Recognition - OCR).
+# The Tesseract OCR *engine* is a separate system binary - see README,
+# section "Installation" (pytesseract is only a Python wrapper for it).
+opencv-python>=4.8
+pytesseract>=0.3.10
+numpy>=1.26
+Pillow>=10.0
